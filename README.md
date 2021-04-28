@@ -3,12 +3,11 @@
 ## Project setup
 ```
 cd src
-composer install
-```
 
-###  localhost
-```
+composer install
+
 cd public
+
 php -S localhost:8003
 ```
 
